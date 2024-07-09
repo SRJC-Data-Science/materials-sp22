@@ -4,3 +4,4 @@
 .OTTER_LOG
 *.pyc
 .venv/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py
+*/.ipynb_checkpoints/
